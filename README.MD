@@ -1,15 +1,6 @@
 # 安装
-- 在项目`composer.json`中添加
-```json
-"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://code.lrwanche.com/yiche/region"
-        }
-    ]
-```
-- 执行安装
- 
+
+- 执行安装dev分支，稳定版本无需指定
 `composer require yiche/region:dev-master`
 - 后期更新
 
